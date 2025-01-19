@@ -44,3 +44,14 @@ nav ul{
     }
     
 }
+
+
+/* Responsive for mid devices */
+/* nav ul{
+    display: grid;
+    grid-template-columns: repeat(1, 1fr);
+    gap: 10px;
+} */
+nav{
+    margin: 30px 30px;
+}
